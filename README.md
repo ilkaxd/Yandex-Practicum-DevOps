@@ -30,6 +30,46 @@
             <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>2</td>
+          <td>Автоматизация сборки и CI</td>
+          <td>CI/CD [GitLab]</td>
+          <td>
+            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Основы Linux + траблшутинг</td>
+          <td>Bash</td>
+          <td>
+            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Создание скриптов на Bash</td>
+          <td>Bash</td>
+          <td>
+            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Инфраструктура как код (IaC)</td>
+          <td>Terraform</td>
+          <td>
+            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Управление конфигурацией (SCM)</td>
+          <td>Ansible</td>
+          <td>
+            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
