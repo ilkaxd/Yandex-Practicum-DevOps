@@ -35,7 +35,7 @@
           <td>Автоматизация сборки и CI</td>
           <td>CI/CD [GitLab]</td>
           <td>
-            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_2" target="_blank">Проектное задание</a>
           </td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@
           <td>Основы Linux + траблшутинг</td>
           <td>Bash</td>
           <td>
-            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_3" target="_blank">Проектное задание</a>
           </td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@
           <td>Создание скриптов на Bash</td>
           <td>Bash</td>
           <td>
-            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_4" target="_blank">Проектное задание</a>
           </td>
         </tr>
         <tr>
@@ -59,7 +59,7 @@
           <td>Инфраструктура как код (IaC)</td>
           <td>Terraform</td>
           <td>
-            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_5" target="_blank">Проектное задание</a>
           </td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@
           <td>Управление конфигурацией (SCM)</td>
           <td>Ansible</td>
           <td>
-            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_6" target="_blank">Проектное задание</a>
           </td>
         </tr>
       </tbody>
