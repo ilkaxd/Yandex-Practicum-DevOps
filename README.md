@@ -27,7 +27,7 @@
           <td>Введение в DevOps и системы контроля версий</td>
           <td>Git [GitLab]</td>
           <td>
-            <a href="https://github.com/ilkaxd/XXX" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_1" target="_blank">Проектное задание</a>
           </td>
         </tr>
         <tr>
