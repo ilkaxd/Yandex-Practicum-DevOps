@@ -70,6 +70,14 @@
             <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_6" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>7</td>
+          <td>Continuous Delivery and Deployment</td>
+          <td>CI/CD [GitLab]</td>
+          <td>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_7" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
