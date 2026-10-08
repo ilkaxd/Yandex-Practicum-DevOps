@@ -78,6 +78,14 @@
             <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_7" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>8</td>
+          <td>Контейнеризация приложений</td>
+          <td>Docker</td>
+          <td>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_8" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
