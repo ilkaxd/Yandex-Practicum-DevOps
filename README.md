@@ -86,6 +86,14 @@
             <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_8" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>9</td>
+          <td>Оркестрация многоконтейнерных приложений</td>
+          <td>Docker compose</td>
+          <td>
+            <a href="https://github.com/ilkaxd/YandexPracticum_DevOps_Sprint_9" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
